@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshman Samvith Dunna</h1>
 <h3 align="center">A highly competitive backend web developer, flexible to work on different stacks and domains. Quite often worked on front-end user stories, to extend my knowledge to become a Full-Stack Web Developer.</h3>
 
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmansamvith&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmansamvith" /> </p>
 
 - 🌱 I’m currently learning **Material UI, React Spring**
