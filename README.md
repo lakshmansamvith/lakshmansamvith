@@ -1,11 +1,8 @@
 # Hi 👋, I'm Lakshman Samvith Dunna
 
-A highly competitive backend web developer, flexible to work on different stacks and domains. I often work on front-end user stories to expand my knowledge and become a Full-Stack Web Developer.
+As an experienced backend web developer, I thrive in highly competitive environments and possess the flexibility to work with various technology stacks and domains. While my expertise lies primarily in backend development, I actively engage in front-end user stories as well. This not only allows me to broaden my skillset but also fuels my ambition to evolve into a well-rounded Full-Stack Web Developer. By actively participating in front-end development, I gain valuable insights into user experience and interface design, enabling me to create cohesive and user-friendly web applications. My dedication to continuous learning and growth drives me to expand my knowledge and excel in delivering end-to-end solutions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmansamvith&show_icons=true&locale=en" alt="lakshmansamvith" style="margin-right: 10px;" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula" style="margin-left: 10px;" />
-</div>
 
 
 
