@@ -6,7 +6,7 @@ As an experienced backend web developer, I thrive in highly competitive environm
 
 
 
-- 🌱 I’m currently learning **Material UI, React Spring**
+- 🌱 I’m currently learning **Material UI, React Spring and Next JS**
 - 💬 Ask me about **.NET Core, Azure, SQL Server, React**
 - 📫 How to reach me: **lakshmandunna75@gmail.com**
 
