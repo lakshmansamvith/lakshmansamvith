@@ -9,7 +9,7 @@ Having had the privilege of working with various technology stacks and domains, 
 In summary, I am a passionate and adaptable web developer with a user-centric focus. My dedication to continuous growth and the power of collaboration drives me to create meaningful and impactful web applications.
 
 <div>
-  <img align="right" alt="GitHub Stats for @lakshmansamvith" src="https://github-readme-stats.vercel.app/api?username=lakshmansamvith&theme=algolia&show_icons=true&count_private=true&hide_title=true" title="Umm, it'll get better" alt="GitHub Stats"/>
+  <img align="right" alt="GitHub Stats for @lakshmansamvith" src="https://github-readme-stats.vercel.app/api?username=lakshmansamvith&theme=algolia&show_icons=true&count_private=true&hide_title=true&hide=stars" title="Umm, it'll get better" alt="GitHub Stats"/>
 </div>
 
 - 🌱 I’m currently learning **Material UI, React Spring, and Next JS**
