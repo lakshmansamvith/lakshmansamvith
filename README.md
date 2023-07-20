@@ -13,8 +13,7 @@ In summary, I am a passionate and adaptable web developer with a focus on delive
   alt="GitHub Stats for @lakshmansamvith"
   src="https://github-readme-stats.vercel.app/api?username=lakshmansamvith&theme=shades-of-purple&show_icons=true&count_private=true&hide_title=true"
   title="Umm, it'll get better"/>
- <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakshmansamvith&layout=compact&langs_count=16&theme=dracula" style="margin-left: 10px;" />
-</div>
+ 
 
 <br/> 
 
