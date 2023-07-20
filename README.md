@@ -1,7 +1,12 @@
 # Hi 👋, I'm Lakshman Samvith Dunna
 
-As an experienced backend web developer, I thrive in highly competitive environments and possess the flexibility to work with various technology stacks and domains. While my expertise lies primarily in backend development, I actively engage in front-end user stories as well. This not only allows me to broaden my skillset but also fuels my ambition to evolve into a well-rounded Full-Stack Web Developer. By actively participating in front-end development, I gain valuable insights into user experience and interface design, enabling me to create cohesive and user-friendly web applications. My dedication to continuous learning and growth drives me to expand my knowledge and excel in delivering end-to-end solutions.
+As a backend web developer, I love the excitement of working in fast-paced and competitive environments. While my expertise lies primarily in backend development, I also actively engage in front-end user stories. This not only allows me to broaden my skillset but also fuels my ambition to become a well-rounded Full-Stack Web Developer.
 
+Embracing front-end development has provided me with valuable insights into user experience and interface design. I take pride in creating cohesive and user-friendly web applications that leave a positive impact on users. My dedication to continuous learning drives me to expand my knowledge and excel in delivering end-to-end solutions.
+
+I have had the privilege of working with various technology stacks and domains, which has sharpened my adaptability and versatility. I approach every project with a sense of humility, recognizing that there is always more to learn. Collaboration with others enriches my experiences and helps me find innovative solutions.
+
+In summary, I am a passionate and adaptable web developer with a focus on delivering user-centric solutions. My dedication to continuous growth and collaboration drives me to create meaningful and impactful web applications.
 <div>
   <img
   align="right"
