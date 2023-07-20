@@ -35,6 +35,9 @@ As an experienced backend web developer, I thrive in highly competitive environm
 <a href= https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width ="40" height="40" color = #fff/>
 </a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/>
+</a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </a>
@@ -50,6 +53,8 @@ As an experienced backend web developer, I thrive in highly competitive environm
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
 </a>
+
+
 
 
 
