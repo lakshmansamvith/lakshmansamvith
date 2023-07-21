@@ -8,9 +8,7 @@ Having had the privilege of working with various technology stacks and domains, 
 
 In summary, I am a passionate and adaptable web developer with a user-centric focus. My dedication to continuous growth and the power of collaboration drives me to create meaningful and impactful web applications.
 
-<div>
-  <img align="right" alt="GitHub Stats for @lakshmansamvith" src="https://github-readme-stats.vercel.app/api?username=lakshmansamvith&theme=algolia&show_icons=true&count_private=true&hide_title=true&hide=stars" title="Umm, it'll get better" alt="GitHub Stats"/>
-</div>
+
 
 - 🌱 I’m currently learning **Material UI, React Spring, and Next JS**
 - 💬 Ask me about **.NET Core, Azure, SQL Server, React**
@@ -51,3 +49,10 @@ In summary, I am a passionate and adaptable web developer with a user-centric fo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
   </a>
 </p>
+
+<div>
+  <img align="center" alt="Penguin falls gif" src="https://media.giphy.com/media/f2HiQKaEkaKwo/giphy.gif" width="250" height="250" />
+<img align="center" alt="Why do we fall" src="https://media.tenor.com/6ebwbozGRUoAAAAC/aint-about-how-hard-you-can-hit-how-hard-you-can-get-it.gif" width="300" height="250" />
+  <h3>I recently messed up quite a bit, worse than in the first gif,  got worried and stressed out, but I believe in the second gif.</h3>
+</div>
+
