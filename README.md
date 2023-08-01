@@ -1,4 +1,4 @@
-ĺ# Hi 👋, I'm Lakshman Samvith Dunna
+# Hi 👋, I'm Lakshman Samvith Dunna
 
 As a backend web developer, I thrive in fast-paced and competitive environments, always seeking new challenges to fuel my passion for innovation. While my expertise lies primarily in backend development, I actively engage in front-end user stories, driven by a desire to become a well-rounded Full-Stack Web Developer.
 
