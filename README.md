@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lakshman Samvith Dunna
+ĺ# Hi 👋, I'm Lakshman Samvith Dunna
 
 As a backend web developer, I thrive in fast-paced and competitive environments, always seeking new challenges to fuel my passion for innovation. While my expertise lies primarily in backend development, I actively engage in front-end user stories, driven by a desire to become a well-rounded Full-Stack Web Developer.
 
@@ -51,10 +51,4 @@ In summary, I am a passionate and adaptable web developer with a user-centric fo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
   </a>
 </p>
-
-<div>
-  <img align="center" alt="Penguin falls gif" src="https://media.giphy.com/media/f2HiQKaEkaKwo/giphy.gif" width="250" height="250" />
-<img align="center" alt="Why do we fall" src="https://media.tenor.com/6ebwbozGRUoAAAAC/aint-about-how-hard-you-can-hit-how-hard-you-can-get-it.gif" width="300" height="250" />
-  <h3>I recently messed up quite a bit, worse than in the first gif,  got worried and stressed out, but I believe in the second gif.</h3>
-</div>
 
